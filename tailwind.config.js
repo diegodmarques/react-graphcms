@@ -4,6 +4,7 @@ module.exports = {
         './src/**/*.tsx'
     ],
 
+
     theme: {
         extend: {
             backgroundImage: {
